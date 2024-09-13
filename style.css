@@ -5,6 +5,14 @@ body {
 
 }
 
+header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 40px;
+}
+
 .nav {
     display: flex;
     width: 100%;
@@ -105,20 +113,19 @@ body {
 }
 
 .pictuer {
-    position: relative;
-
-    height: 500px;
-    width: 75%;
-    position: relative;
-    left: 11%;
-}
-
-.pictuer p {
-    position: absolute;
-    top: 25%;
-    left: 30%;
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    background-image: url(WhatsApp\ Image\ 2024-09-13\ at\ 15.00.11_c0e8f5f4.jpg);
+    background-size: cover;
+    background-position: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
+
+
 
 .Ableton {
     font-size: 120px;
@@ -145,22 +152,3 @@ body {
 
 }
 
-/* @media only screen and (min-width:300px)and (max-width:576px) {
- 
-}
-
-@media only screen and (min-width:576px)and (max-width:768px) {
-    body {
-        background-color: blue;
-    }
-}
-
-@media only screen and (min-width:768px)and (max-width:992px) {
-    body {
-        background-color: rgb(0, 255, 98);
-    }
-}
-
-@media only screen and (min-width:992px)and (max-width:1200px) {
-   
-} */
