@@ -57,7 +57,7 @@ header {
 }
 
 #More {
-    color: orangered;
+    color: #ff764d
 }
 
 .Try {
@@ -109,7 +109,7 @@ header {
 }
 
 #About {
-    color: orangered;
+    color:  #ff764d;
 }
 
 .pictuer {
@@ -129,7 +129,7 @@ header {
 
 .Ableton {
     font-size: 120px;
-    color: orangered;
+    color: #ff764d;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -152,3 +152,340 @@ header {
 
 }
 
+.section {
+    height: 700px;
+    width: 700px;
+    background-color: #fbffa7;
+
+    position: relative;
+    left: 40%;
+}
+
+.pictuer1 {
+    height: 300px;
+    width: 450px;
+
+    background-image: url("https://ableton-production.imgix.net/about/photo-2.jpg?dpr=2&fit=crop&h=258&ixjsv=1.1.3&q=50&w=344");
+    background-size: cover;
+    position: absolute;
+    top: 28%;
+    left: 26%;
+    background-position: 50%;
+}
+
+.pictuer2 {
+    height: 500px;
+    width: 500px;
+
+    background-image: url("https://ableton-production.imgix.net/about/photo-1.jpg?dpr=2&fit=crop&h=430&ixjsv=1.1.3&q=50&w=430");
+    background-size: cover;
+    background-position: 50%;
+    position: absolute;
+    right: 90%;
+    top: 10%;
+}
+
+.pra {
+    height: 200px;
+    width: 600px;
+
+    padding: 10px;
+    align-items: center;
+    position: relative;
+    top: 100px;
+    left: 20%;
+
+
+}
+
+.pra h3 {
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pra p {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.vedio {
+
+    height: 340px;
+    width: 550px;
+
+    margin: 10px;
+    padding: 15px;
+    align-items: center;
+    position: relative;
+    top: 100px;
+    left: 19%;
+
+}
+
+.pic3 {
+
+    height: 600px;
+    width: 500px;
+
+    position: relative;
+    top: 20%;
+
+}
+
+.pra1 {
+
+    height: 200px;
+    width: 600px;
+
+    padding: 15px;
+    align-items: center;
+    position: relative;
+    top: 100px;
+    left: 20%;
+}
+
+.pra1 h3 {
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pra1 p {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pic {
+
+    height: 900px;
+    width: 600px;
+    background-color: #b6ffc0;
+
+    position: relative;
+    top: 40%;
+
+}
+
+.photo1 {
+
+    height: 300px;
+    width: 350px;
+
+    background-image: url("https://ableton-production.imgix.net/about/photo-3.jpg?dpr=2&fit=crop&h=258&ixjsv=1.1.3&q=50&w=344");
+    background-size: cover;
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    background-position: 50%;
+}
+
+.photo2 {
+
+    height: 300px;
+    width: 350px;
+
+    background-image: url("https://ableton-production.imgix.net/about/photo-4.jpg?dpr=2&fit=crop&h=258&ixjsv=1.1.3&q=50&w=344");
+    background-size: cover;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    background-position: 50%;
+}
+
+.photo3 {
+
+    height: 500px;
+    width: 450px;
+
+    background-image: url("https://ableton-production.imgix.net/about/photo-5.jpg?dpr=2&fit=crop&h=430&ixjsv=1.1.3&q=50&w=430");
+    background-size: cover;
+    position: absolute;
+    top: 15%;
+    left: 85%;
+    background-position: 50%;
+}
+
+.pp1 {
+
+    height: 200px;
+    width: 600px;
+
+    padding: 15px;
+    align-items: center;
+    position: relative;
+    top: 350px;
+    left: 20%;
+
+}
+
+.pp1 h2 {
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.pp1 p {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.bigpic {
+
+    height: 500px;
+    width: 80%;
+
+    background-image: url(poster-meet-the-makers.avif);
+    background-position: 50%;
+    background-size: cover;
+    position: relative;
+    top: 70%;
+    left: 10%;
+}
+
+.pp2 {
+
+    height: 250px;
+    width: 600px;
+
+    padding: 15px;
+    align-items: center;
+    position: relative;
+    top: 500px;
+    left: 25%;
+}
+
+.pp2 h2 {
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.pp2 p {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.pict {
+    height: 700px;
+    width: 770px;
+    background-color: #d5b3ff;
+
+    position: relative;
+    top: 90%;
+    left: 20%;
+
+
+}
+
+.pict1 {
+
+    height: 350px;
+    width: 400px;
+
+    background-image: url("https://ableton-production.imgix.net/about/photo-6-a.jpg?dpr=2&fit=crop&h=253&ixjsv=1.1.3&q=50&w=337");
+    background-size: cover;
+    position: absolute;
+    top: 25%;
+    right: 70%;
+    background-position: 50%;
+}
+
+.pict2 {
+
+    height: 550px;
+    width: 500px;
+
+    background-image: url("https://ableton-production.imgix.net/about/photo-7.jpg?dpr=2&fit=crop&h=421&ixjsv=1.1.3&q=50&w=421");
+    background-size: cover;
+    position: absolute;
+    top: 12%;
+    left: 70%;
+    background-position: 50%;
+}
+
+.pp3 {
+
+    height: 250px;
+    width: 600px;
+
+    padding: 15px;
+    align-items: center;
+    position: relative;
+    top: 600px;
+    left: 25%;
+
+}
+
+.pp3 h2 {
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.pp3 p {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.divv2 {
+
+    height: 500px;
+    width: 80%;
+    align-items: center;
+    position: relative;
+    top: 90%;
+    left: 10%;
+
+}
+
+.pcc {
+    position: absolute;
+
+    height: 500px;
+    width: 50%;
+    background-image: url("https://ableton-production.imgix.net/about/photo-8.jpg?crop=right&dpr=2&fit=crop&h=603&ixjsv=1.1.3&q=50&w=1005");
+    background-size: cover;
+    background-position: 50%;
+
+}
+
+.pcc2 {
+    position: absolute;
+
+    height: 500px;
+    width: 50%;
+    left: 50%;
+    background-color: #b1c5ff;
+}
+
+.ha {
+
+    height: 500px;
+    width: 400px;
+    position: relative;
+
+    left: 10%;
+}
+
+.ha h2 {
+    color: white;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top: 20%;
+
+}
+
+.ha a {
+    text-decoration: none;
+    color: #0000ff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#hrr {
+    position: relative;
+    top: 95%;
+}
